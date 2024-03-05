@@ -1,0 +1,16 @@
+displayName: NFCorpus
+labelTypes:
+- Text
+license:
+- NFCorpus Custom
+mediaTypes:
+- Text
+paperUrl: https://www.cl.uni-heidelberg.de/~riezler/publications/papers/ECIR2016.pdf
+publishDate: "2016-02-19"
+publishUrl: https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/
+publisher:
+- Heidelberg University
+tags:
+- Medical Text
+taskTypes:
+- Information Retrieval
